@@ -106,7 +106,7 @@ Project/
 │   ├── exploratory_data_analysis.ipynb
 │   ├── model_training.ipynb
 │   ├── test_data_processing.ipynb
-│   ├── Final_Test_Predictions.ipynb
+│   ├── final_test_predictions.ipynb
 ├── submission/
 │   ├── sample_submission.csv
 ├── README.md
