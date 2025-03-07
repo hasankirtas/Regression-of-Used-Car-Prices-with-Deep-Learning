@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+tensorflow==2.4
+tensorflow-addons
+plotly
+keras
+opencv-python
