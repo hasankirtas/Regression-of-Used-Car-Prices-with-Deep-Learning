@@ -1,16 +1,16 @@
-name: car_price_prediction
+name: regression-of-used-car-prices-with-deep-learning
 channels:
   - defaults
   - conda-forge
 dependencies:
-  - python=3.8
+  - python=3.12
+  - pandas=2.2.2
+  - numpy=1.26.4
+  - scikit-learn=1.6.1
+  - matplotlib=3.9.2
+  - seaborn=0.13.2
+  - tensorflow=2.18.0
   - pip
-  - pandas
-  - numpy
-  - scikit-learn
-  - matplotlib
-  - seaborn
-  - tensorflow=2.4
   - pip:
       - tensorflow-addons
       - plotly
