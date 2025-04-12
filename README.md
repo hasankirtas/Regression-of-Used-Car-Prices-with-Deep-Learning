@@ -112,7 +112,7 @@ Project/
 ├── README.md
 ├── environment.yml
 ├── requirements.txt
-
+```
 ---
 
 ### Installation
@@ -121,7 +121,7 @@ To set up the project environment:
 Using Conda:
 ```bash
 conda env create -f environment.yml
-conda activate your_project_name
+conda activate regression-of-used-car-prices-with-deep-learning
 ```
 
 Using Pip:
