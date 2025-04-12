@@ -16,7 +16,7 @@ The main goal of this project was to gain hands-on experience with deep learning
 ### Steps Followed
 
 #### **1. Data Loading and Preprocessing**
-- **Dataset**: The raw data was loaded from `../data/raw/cars.csv`.
+- **Dataset**: The raw data(train_data) was loaded from `../data/raw/train_data.csv`.
 - **Initial Exploration**: A general analysis of the dataset was performed to understand the features and the relationships between them. Visualizations were used extensively to gain insights into the data.
 - **Target Variable**: The target variable, `price`, was selected for regression tasks.
 - **Missing Values**: I filled missing values for most features, but `fuel_type` was left out as it showed weak correlation with the target variable, `Price`.
